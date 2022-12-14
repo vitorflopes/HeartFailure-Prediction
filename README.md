@@ -5,4 +5,8 @@
 
 Pessoas com doenças cardiovasculares ou com alto risco cardiovascular (devido à presença de um ou mais fatores de risco, como hipertensão, diabetes, hiperlipidemia ou doença já estabelecida) precisam de detecção e gerenciamento precoces, em que um modelo de aprendizado de máquina pode ser de grande ajuda.<p>
 
+ Abaixo temos o gráfico comparando o modelo em teste e o modelo em treino. Seu melhor desempenho registrado foi de acurácia = 0.9130434783 com o melhor subgrupo (detalhes sobre os subgrupos no arquivo algorithm.ipynb)
+ 
+ Para mais detalhes técnicos, leia o arquivo algorithm.ipynb.
+ 
 ![alt text](https://github.com/vitorflopes/HeartFailure-Prediction/blob/main/graphic.PNG?raw=true)
